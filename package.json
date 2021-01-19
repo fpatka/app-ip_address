@@ -18,5 +18,16 @@
   "homepage": "https://github.com/fpatka/app-ip_address#readme",
   "dependencies": {
     "ip-cidr": "^2.1.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": [
+    "An",
+    "IAP",
+    "product",
+    "serving",
+    "IP",
+    "address",
+    "management",
+    "functions."
+  ]
 }
